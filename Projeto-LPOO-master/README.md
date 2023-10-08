@@ -49,7 +49,7 @@ Este é um sistema de clínica médica desenvolvido em Java que permite gerencia
 ## Como Executar o Sistema
 
 1. Clone este repositório em sua máquina local.
-2. (Instruções para configurar e inicializar o banco de dados, se necessário.)
+2. (Executar dump do banco de dados mysql para criar as tabelas)
 3. Abra o projeto em sua IDE Java favorita.
 4. Compile e execute o código-fonte.
 
