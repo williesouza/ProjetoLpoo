@@ -62,5 +62,3 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 ## Contato
 
 Para mais informações ou dúvidas sobre este sistema, entre em contato com Willie via williesouza@hotmail.com.
-
-**Aviso: Este é apenas um exemplo de README.md e deve ser adaptado de acordo com os detalhes específicos do seu projeto, como tecnologias utilizadas, estrutura de diretórios, instruções de instalação e configuração, e informações de contato.**
