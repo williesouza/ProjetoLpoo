@@ -1,5 +1,3 @@
-Claro, abaixo está um exemplo de um arquivo README.md para um sistema de clínica médica em Java com as funcionalidades mencionadas:
-
 # Sistema de Clínica Médica
 
 Este é um sistema de clínica médica desenvolvido em Java que permite gerenciar informações sobre pacientes, médicos, exames e medicamentos. O sistema oferece as seguintes funcionalidades:
@@ -46,8 +44,7 @@ Este é um sistema de clínica médica desenvolvido em Java que permite gerencia
 ## Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
-- Banco de Dados: (Incluir o banco de dados utilizado, como MySQL, PostgreSQL, etc.)
-- Frameworks: (Se aplicável, mencionar quais frameworks foram usados)
+- Banco de Dados: (MySql)
 
 ## Como Executar o Sistema
 
@@ -60,12 +57,10 @@ Este é um sistema de clínica médica desenvolvido em Java que permite gerencia
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades para este sistema. Para contribuir, siga as diretrizes de contribuição deste projeto.
 
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença] - Coloque aqui o nome da licença (por exemplo, MIT License) - consulte o arquivo LICENSE.md para obter detalhes.
+.
 
 ## Contato
 
-Para mais informações ou dúvidas sobre este sistema, entre em contato com [seu nome] via [seu email] ou [seu site].
+Para mais informações ou dúvidas sobre este sistema, entre em contato com Willie via williesouza@hotmail.com.
 
 **Aviso: Este é apenas um exemplo de README.md e deve ser adaptado de acordo com os detalhes específicos do seu projeto, como tecnologias utilizadas, estrutura de diretórios, instruções de instalação e configuração, e informações de contato.**
